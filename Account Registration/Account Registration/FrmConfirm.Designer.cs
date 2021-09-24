@@ -50,6 +50,8 @@ namespace Account_Registration
             this.ageInfo = new System.Windows.Forms.Label();
             this.contactNumberInfo = new System.Windows.Forms.Label();
             this.addressInfo = new System.Windows.Forms.Label();
+            
+            this.submitButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             
             // 
@@ -197,11 +199,22 @@ namespace Account_Registration
             this.middleNameInfo.TabIndex = 12;
             this.middleNameInfo.Text = "Lapeceros";
             // 
+            // submitButton
+            // 
+            this.submitButton.Font = new System.Drawing.Font("Open Sans SemiBold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.submitButton.Location = new System.Drawing.Point(142, 388);
+            this.submitButton.Name = "submitButton";
+            this.submitButton.Size = new System.Drawing.Size(115, 28);
+            this.submitButton.TabIndex = 16;
+            this.submitButton.Text = "Submit";
+            this.submitButton.UseVisualStyleBackColor = true;
+            // 
             // FrmConfirm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(404, 393);
+            this.ClientSize = new System.Drawing.Size(404, 428);
+            this.Controls.Add(this.submitButton);
             this.Controls.Add(this.studentNumberInfo);
             this.Controls.Add(this.programInfo);
             this.Controls.Add(this.lastNameInfo);
@@ -218,14 +231,14 @@ namespace Account_Registration
             this.Controls.Add(this.ageLabel);
             this.Controls.Add(this.contactNumberLabel);
             this.Controls.Add(this.addressLabel);
-            this.MaximumSize = new System.Drawing.Size(420, 432);
-            this.MinimumSize = new System.Drawing.Size(420, 432);
+            this.MaximumSize = new System.Drawing.Size(420, 467);
+            this.MinimumSize = new System.Drawing.Size(420, 467);
             this.Name = "FrmConfirm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Confirm Identity";
             this.ResumeLayout(false);
         }
-        
+        private System.Windows.Forms.Button submitButton;
 
         private System.Windows.Forms.Label studentNumberInfo;
         private System.Windows.Forms.Label programInfo;
