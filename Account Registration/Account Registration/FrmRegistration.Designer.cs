@@ -36,20 +36,29 @@
             
             this.studentNumberLabel = new System.Windows.Forms.Label();
             this.studentNumberTextbox = new System.Windows.Forms.TextBox();
+            
             this.programTextbox = new System.Windows.Forms.TextBox();
             this.programLabel = new System.Windows.Forms.Label();
+            
             this.lastNameTextbox = new System.Windows.Forms.TextBox();
             this.lastNameLabel = new System.Windows.Forms.Label();
+            
             this.firstNameTextbox = new System.Windows.Forms.TextBox();
             this.firstNameLabel = new System.Windows.Forms.Label();
+            
             this.middleNameTextbox = new System.Windows.Forms.TextBox();
             this.middleNameLabel = new System.Windows.Forms.Label();
+            
             this.contactNumberTextbox = new System.Windows.Forms.TextBox();
             this.contactNumberLabel = new System.Windows.Forms.Label();
+            
             this.ageTextbox = new System.Windows.Forms.TextBox();
             this.ageLabel = new System.Windows.Forms.Label();
+            
             this.addressLabel = new System.Windows.Forms.Label();
             this.addressRichTextbox = new System.Windows.Forms.RichTextBox();
+            
+            this.nextButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // studentNumberLabel
@@ -68,6 +77,7 @@
             this.studentNumberTextbox.Name = "studentNumberTextbox";
             this.studentNumberTextbox.Size = new System.Drawing.Size(163, 20);
             this.studentNumberTextbox.TabIndex = 1;
+            this.studentNumberTextbox.Text = "";
             // 
             // programTextbox
             // 
@@ -76,6 +86,7 @@
             this.programTextbox.Name = "programTextbox";
             this.programTextbox.Size = new System.Drawing.Size(210, 20);
             this.programTextbox.TabIndex = 3;
+            this.programTextbox.Text = "";
             // 
             // programLabel
             // 
@@ -93,6 +104,7 @@
             this.lastNameTextbox.Name = "lastNameTextbox";
             this.lastNameTextbox.Size = new System.Drawing.Size(163, 20);
             this.lastNameTextbox.TabIndex = 5;
+            this.lastNameTextbox.Text = "";
             // 
             // lastNameLabel
             // 
@@ -110,6 +122,7 @@
             this.firstNameTextbox.Name = "firstNameTextbox";
             this.firstNameTextbox.Size = new System.Drawing.Size(163, 20);
             this.firstNameTextbox.TabIndex = 7;
+            this.firstNameTextbox.Text = "";
             // 
             // firstNameLabel
             // 
@@ -127,6 +140,7 @@
             this.middleNameTextbox.Name = "middleNameTextbox";
             this.middleNameTextbox.Size = new System.Drawing.Size(163, 20);
             this.middleNameTextbox.TabIndex = 9;
+            this.middleNameTextbox.Text = "";
             // 
             // middleNameLabel
             // 
@@ -144,6 +158,7 @@
             this.contactNumberTextbox.Name = "contactNumberTextbox";
             this.contactNumberTextbox.Size = new System.Drawing.Size(163, 20);
             this.contactNumberTextbox.TabIndex = 13;
+            this.contactNumberTextbox.Text = "";
             // 
             // contactNumberLabel
             // 
@@ -161,6 +176,7 @@
             this.ageTextbox.Name = "ageTextbox";
             this.ageTextbox.Size = new System.Drawing.Size(163, 20);
             this.ageTextbox.TabIndex = 11;
+            this.ageTextbox.Text = "";
             // 
             // ageLabel
             // 
@@ -189,12 +205,23 @@
             this.addressRichTextbox.TabIndex = 15;
             this.addressRichTextbox.Text = "";
             // 
+            // nextButton
+            // 
+            this.nextButton.Font = new System.Drawing.Font("Open Sans SemiBold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.nextButton.Location = new System.Drawing.Point(212, 399);
+            this.nextButton.Name = "nextButton";
+            this.nextButton.Size = new System.Drawing.Size(119, 33);
+            this.nextButton.TabIndex = 16;
+            this.nextButton.Text = "Next";
+            this.nextButton.UseVisualStyleBackColor = true;
+            // 
             // FrmRegistration
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(541, 409);
+            this.ClientSize = new System.Drawing.Size(556, 444);
+            this.Controls.Add(this.nextButton);
             this.Controls.Add(this.addressRichTextbox);
             this.Controls.Add(this.addressLabel);
             this.Controls.Add(this.contactNumberTextbox);
@@ -212,13 +239,16 @@
             this.Controls.Add(this.studentNumberTextbox);
             this.Controls.Add(this.studentNumberLabel);
             this.Location = new System.Drawing.Point(15, 15);
-            this.MaximumSize = new System.Drawing.Size(557, 448);
-            this.MinimumSize = new System.Drawing.Size(557, 448);
+            this.MaximumSize = new System.Drawing.Size(572, 483);
+            this.MinimumSize = new System.Drawing.Size(572, 483);
             this.Name = "FrmRegistration";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Load += new System.EventHandler(this.FrmRegistration_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
         }
+        
+        private System.Windows.Forms.Button nextButton;
         
         private System.Windows.Forms.Label addressLabel;
         private System.Windows.Forms.RichTextBox addressRichTextbox;
