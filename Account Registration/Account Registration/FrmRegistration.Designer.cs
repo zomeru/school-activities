@@ -59,6 +59,7 @@
             this.addressRichTextbox = new System.Windows.Forms.RichTextBox();
             
             this.nextButton = new System.Windows.Forms.Button();
+            this.clearButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // studentNumberLabel
@@ -113,7 +114,7 @@
             this.lastNameLabel.Name = "lastNameLabel";
             this.lastNameLabel.Size = new System.Drawing.Size(156, 22);
             this.lastNameLabel.TabIndex = 4;
-            this.lastNameLabel.Text = "Last Name";
+            this.lastNameLabel.Text = "Last Name:";
             // 
             // firstNameTextbox
             // 
@@ -131,7 +132,7 @@
             this.firstNameLabel.Name = "firstNameLabel";
             this.firstNameLabel.Size = new System.Drawing.Size(156, 22);
             this.firstNameLabel.TabIndex = 6;
-            this.firstNameLabel.Text = "First Name";
+            this.firstNameLabel.Text = "First Name:";
             // 
             // middleNameTextbox
             // 
@@ -149,7 +150,7 @@
             this.middleNameLabel.Name = "middleNameLabel";
             this.middleNameLabel.Size = new System.Drawing.Size(156, 22);
             this.middleNameLabel.TabIndex = 8;
-            this.middleNameLabel.Text = "Middle Name";
+            this.middleNameLabel.Text = "Middle Name:";
             // 
             // contactNumberTextbox
             // 
@@ -208,12 +209,23 @@
             // nextButton
             // 
             this.nextButton.Font = new System.Drawing.Font("Open Sans SemiBold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.nextButton.Location = new System.Drawing.Point(212, 399);
+            this.nextButton.Location = new System.Drawing.Point(398, 399);
             this.nextButton.Name = "nextButton";
             this.nextButton.Size = new System.Drawing.Size(119, 33);
             this.nextButton.TabIndex = 16;
             this.nextButton.Text = "Next";
             this.nextButton.UseVisualStyleBackColor = true;
+            // 
+            // clearButton
+            // 
+            this.clearButton.Font = new System.Drawing.Font("Open Sans SemiBold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.clearButton.Location = new System.Drawing.Point(273, 399);
+            this.clearButton.Name = "clearButton";
+            this.clearButton.Size = new System.Drawing.Size(119, 33);
+            this.clearButton.TabIndex = 17;
+            this.clearButton.Text = "Clear";
+            this.clearButton.UseVisualStyleBackColor = true;
+            this.clearButton.Click += new System.EventHandler(this.clearButton_Click);
             // 
             // FrmRegistration
             // 
@@ -222,6 +234,7 @@
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(556, 444);
             this.Controls.Add(this.nextButton);
+            this.Controls.Add(this.clearButton);
             this.Controls.Add(this.addressRichTextbox);
             this.Controls.Add(this.addressLabel);
             this.Controls.Add(this.contactNumberTextbox);
@@ -247,6 +260,8 @@
             this.ResumeLayout(false);
             this.PerformLayout();
         }
+        
+        private System.Windows.Forms.Button clearButton;
         
         private System.Windows.Forms.Button nextButton;
         
