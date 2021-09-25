@@ -18,7 +18,7 @@ namespace Account_Registration
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FrmRegistration());
-            Application.Run(new FrmConfirm());
+            //Application.Run(new FrmConfirm());
         }
     }
 }

@@ -208,6 +208,7 @@ namespace Account_Registration
             this.submitButton.TabIndex = 16;
             this.submitButton.Text = "Submit";
             this.submitButton.UseVisualStyleBackColor = true;
+            this.submitButton.Click += new System.EventHandler(this.submitButton_Click);
             // 
             // FrmConfirm
             // 
@@ -235,19 +236,20 @@ namespace Account_Registration
             this.MinimumSize = new System.Drawing.Size(420, 467);
             this.Name = "FrmConfirm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmConfirm_FormClosing);
             this.Text = "Confirm Identity";
             this.ResumeLayout(false);
         }
         private System.Windows.Forms.Button submitButton;
 
-        private System.Windows.Forms.Label studentNumberInfo;
-        private System.Windows.Forms.Label programInfo;
-        private System.Windows.Forms.Label lastNameInfo;
-        private System.Windows.Forms.Label firstNameInfo;
-        private System.Windows.Forms.Label middleNameInfo;
-        private System.Windows.Forms.Label ageInfo;
-        private System.Windows.Forms.Label contactNumberInfo;
-        private System.Windows.Forms.Label addressInfo;
+        public System.Windows.Forms.Label studentNumberInfo;
+        public System.Windows.Forms.Label programInfo;
+        public System.Windows.Forms.Label lastNameInfo;
+        public System.Windows.Forms.Label firstNameInfo;
+        public System.Windows.Forms.Label middleNameInfo;
+        public System.Windows.Forms.Label ageInfo;
+        public System.Windows.Forms.Label contactNumberInfo;
+        public System.Windows.Forms.Label addressInfo;
 
         private System.Windows.Forms.Label studentNumberLabel;
         private System.Windows.Forms.Label programLabel;

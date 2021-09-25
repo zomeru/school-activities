@@ -60,6 +60,8 @@
             
             this.nextButton = new System.Windows.Forms.Button();
             this.clearButton = new System.Windows.Forms.Button();
+            
+            this.errorMessage = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // studentNumberLabel
@@ -215,6 +217,7 @@
             this.nextButton.TabIndex = 16;
             this.nextButton.Text = "Next";
             this.nextButton.UseVisualStyleBackColor = true;
+            this.nextButton.Click += new System.EventHandler(this.nextButton_Click);
             // 
             // clearButton
             // 
@@ -223,9 +226,18 @@
             this.clearButton.Name = "clearButton";
             this.clearButton.Size = new System.Drawing.Size(119, 33);
             this.clearButton.TabIndex = 17;
-            this.clearButton.Text = "Clear";
+            this.clearButton.Text = "Clear All";
             this.clearButton.UseVisualStyleBackColor = true;
             this.clearButton.Click += new System.EventHandler(this.clearButton_Click);
+            // 
+            // errorMessage
+            // 
+            this.errorMessage.ForeColor = System.Drawing.Color.Red;
+            this.errorMessage.Location = new System.Drawing.Point(21, 392);
+            this.errorMessage.Name = "errorMessage";
+            this.errorMessage.Size = new System.Drawing.Size(234, 39);
+            this.errorMessage.TabIndex = 18;
+            this.errorMessage.Text = "";
             // 
             // FrmRegistration
             // 
@@ -233,6 +245,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(556, 444);
+            this.Controls.Add(this.errorMessage);
             this.Controls.Add(this.nextButton);
             this.Controls.Add(this.clearButton);
             this.Controls.Add(this.addressRichTextbox);
@@ -260,33 +273,34 @@
             this.ResumeLayout(false);
             this.PerformLayout();
         }
+        private System.Windows.Forms.Label errorMessage;
         
         private System.Windows.Forms.Button clearButton;
         
         private System.Windows.Forms.Button nextButton;
         
         private System.Windows.Forms.Label addressLabel;
-        private System.Windows.Forms.RichTextBox addressRichTextbox;
+        public System.Windows.Forms.RichTextBox addressRichTextbox;
 
-        private System.Windows.Forms.TextBox ageTextbox;
+        public System.Windows.Forms.TextBox ageTextbox;
         private System.Windows.Forms.Label ageLabel;
         
-        private System.Windows.Forms.TextBox contactNumberTextbox;
+        public System.Windows.Forms.TextBox contactNumberTextbox;
         private System.Windows.Forms.Label contactNumberLabel;
 
         private System.Windows.Forms.Label studentNumberLabel;
-        private System.Windows.Forms.TextBox studentNumberTextbox;
+        public System.Windows.Forms.TextBox studentNumberTextbox;
         
-        private System.Windows.Forms.TextBox programTextbox;
+        public System.Windows.Forms.TextBox programTextbox;
         private System.Windows.Forms.Label programLabel;
         
-        private System.Windows.Forms.TextBox firstNameTextbox;
+        public System.Windows.Forms.TextBox firstNameTextbox;
         private System.Windows.Forms.Label firstNameLabel;
         
-        private System.Windows.Forms.TextBox lastNameTextbox;
+        public System.Windows.Forms.TextBox lastNameTextbox;
         private System.Windows.Forms.Label lastNameLabel;
 
-        private System.Windows.Forms.TextBox middleNameTextbox;
+        public System.Windows.Forms.TextBox middleNameTextbox;
         private System.Windows.Forms.Label middleNameLabel;
 
         #endregion
