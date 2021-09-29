@@ -168,7 +168,7 @@
             this.MaximumSize = new System.Drawing.Size(433, 349);
             this.MinimumSize = new System.Drawing.Size(433, 349);
             this.Name = "FrmCalculator";
-            this.Text = "Form1";
+            this.Text = "Calculator App";
             this.ResumeLayout(false);
             this.PerformLayout();
         }
