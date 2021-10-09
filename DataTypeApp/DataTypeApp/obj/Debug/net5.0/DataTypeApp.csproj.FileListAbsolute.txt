@@ -1,0 +1,16 @@
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\bin\Debug\net5.0\DataTypeApp.exe
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\bin\Debug\net5.0\DataTypeApp.deps.json
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\bin\Debug\net5.0\DataTypeApp.runtimeconfig.json
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\bin\Debug\net5.0\DataTypeApp.runtimeconfig.dev.json
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\bin\Debug\net5.0\DataTypeApp.dll
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\bin\Debug\net5.0\ref\DataTypeApp.dll
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\bin\Debug\net5.0\DataTypeApp.pdb
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\obj\Debug\net5.0\DataTypeApp.csproj.AssemblyReference.cache
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\obj\Debug\net5.0\DataTypeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\obj\Debug\net5.0\DataTypeApp.AssemblyInfoInputs.cache
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\obj\Debug\net5.0\DataTypeApp.AssemblyInfo.cs
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\obj\Debug\net5.0\DataTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\obj\Debug\net5.0\DataTypeApp.dll
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\obj\Debug\net5.0\ref\DataTypeApp.dll
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\obj\Debug\net5.0\DataTypeApp.pdb
+C:\Users\Zomer\RiderProjects\DataTypeApp\DataTypeApp\obj\Debug\net5.0\DataTypeApp.genruntimeconfig.cache

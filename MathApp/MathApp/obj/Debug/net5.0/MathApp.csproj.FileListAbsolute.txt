@@ -1,0 +1,16 @@
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\bin\Debug\net5.0\MathApp.exe
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\bin\Debug\net5.0\MathApp.deps.json
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\bin\Debug\net5.0\MathApp.runtimeconfig.json
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\bin\Debug\net5.0\MathApp.runtimeconfig.dev.json
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\bin\Debug\net5.0\MathApp.dll
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\bin\Debug\net5.0\ref\MathApp.dll
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\bin\Debug\net5.0\MathApp.pdb
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\obj\Debug\net5.0\MathApp.csproj.AssemblyReference.cache
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\obj\Debug\net5.0\MathApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\obj\Debug\net5.0\MathApp.AssemblyInfoInputs.cache
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\obj\Debug\net5.0\MathApp.AssemblyInfo.cs
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\obj\Debug\net5.0\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\obj\Debug\net5.0\MathApp.dll
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\obj\Debug\net5.0\ref\MathApp.dll
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\obj\Debug\net5.0\MathApp.pdb
+C:\Users\Zomer\RiderProjects\MathApp\MathApp\obj\Debug\net5.0\MathApp.genruntimeconfig.cache
