@@ -1,0 +1,16 @@
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\bin\Debug\net5.0\ComputerAverageApp.exe
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\bin\Debug\net5.0\ComputerAverageApp.deps.json
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\bin\Debug\net5.0\ComputerAverageApp.runtimeconfig.json
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\bin\Debug\net5.0\ComputerAverageApp.runtimeconfig.dev.json
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\bin\Debug\net5.0\ComputerAverageApp.dll
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\bin\Debug\net5.0\ref\ComputerAverageApp.dll
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\bin\Debug\net5.0\ComputerAverageApp.pdb
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\obj\Debug\net5.0\ComputerAverageApp.csproj.AssemblyReference.cache
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\obj\Debug\net5.0\ComputerAverageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\obj\Debug\net5.0\ComputerAverageApp.AssemblyInfoInputs.cache
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\obj\Debug\net5.0\ComputerAverageApp.AssemblyInfo.cs
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\obj\Debug\net5.0\ComputerAverageApp.csproj.CoreCompileInputs.cache
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\obj\Debug\net5.0\ComputerAverageApp.dll
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\obj\Debug\net5.0\ref\ComputerAverageApp.dll
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\obj\Debug\net5.0\ComputerAverageApp.pdb
+C:\Users\Zomer\RiderProjects\ComputerAverageApp\ComputerAverageApp\obj\Debug\net5.0\ComputerAverageApp.genruntimeconfig.cache
