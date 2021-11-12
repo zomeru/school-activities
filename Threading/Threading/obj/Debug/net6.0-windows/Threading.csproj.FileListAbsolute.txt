@@ -1,0 +1,17 @@
+C:\Users\Zomer\source\repos\Threading\Threading\bin\Debug\net6.0-windows\Threading.exe
+C:\Users\Zomer\source\repos\Threading\Threading\bin\Debug\net6.0-windows\Threading.deps.json
+C:\Users\Zomer\source\repos\Threading\Threading\bin\Debug\net6.0-windows\Threading.runtimeconfig.json
+C:\Users\Zomer\source\repos\Threading\Threading\bin\Debug\net6.0-windows\Threading.dll
+C:\Users\Zomer\source\repos\Threading\Threading\bin\Debug\net6.0-windows\ref\Threading.dll
+C:\Users\Zomer\source\repos\Threading\Threading\bin\Debug\net6.0-windows\Threading.pdb
+C:\Users\Zomer\source\repos\Threading\Threading\obj\Debug\net6.0-windows\Threading.csproj.AssemblyReference.cache
+C:\Users\Zomer\source\repos\Threading\Threading\obj\Debug\net6.0-windows\Threading.FrmBasicThread.resources
+C:\Users\Zomer\source\repos\Threading\Threading\obj\Debug\net6.0-windows\Threading.csproj.GenerateResource.cache
+C:\Users\Zomer\source\repos\Threading\Threading\obj\Debug\net6.0-windows\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zomer\source\repos\Threading\Threading\obj\Debug\net6.0-windows\Threading.AssemblyInfoInputs.cache
+C:\Users\Zomer\source\repos\Threading\Threading\obj\Debug\net6.0-windows\Threading.AssemblyInfo.cs
+C:\Users\Zomer\source\repos\Threading\Threading\obj\Debug\net6.0-windows\Threading.csproj.CoreCompileInputs.cache
+C:\Users\Zomer\source\repos\Threading\Threading\obj\Debug\net6.0-windows\Threading.dll
+C:\Users\Zomer\source\repos\Threading\Threading\obj\Debug\net6.0-windows\ref\Threading.dll
+C:\Users\Zomer\source\repos\Threading\Threading\obj\Debug\net6.0-windows\Threading.pdb
+C:\Users\Zomer\source\repos\Threading\Threading\obj\Debug\net6.0-windows\Threading.genruntimeconfig.cache
