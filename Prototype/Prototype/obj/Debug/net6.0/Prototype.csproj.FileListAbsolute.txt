@@ -1,0 +1,16 @@
+C:\Users\Zomer\source\repos\Prototype\Prototype\obj\Debug\net6.0\Prototype.GlobalUsings.g.cs
+C:\Users\Zomer\source\repos\Prototype\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\Zomer\source\repos\Prototype\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zomer\source\repos\Prototype\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\Zomer\source\repos\Prototype\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\Zomer\source\repos\Prototype\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Zomer\source\repos\Prototype\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\Zomer\source\repos\Prototype\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\Zomer\source\repos\Prototype\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\Zomer\source\repos\Prototype\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\Zomer\source\repos\Prototype\Prototype\bin\Debug\net6.0\ref\Prototype.dll
+C:\Users\Zomer\source\repos\Prototype\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\Zomer\source\repos\Prototype\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\Zomer\source\repos\Prototype\Prototype\obj\Debug\net6.0\ref\Prototype.dll
+C:\Users\Zomer\source\repos\Prototype\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\Zomer\source\repos\Prototype\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
