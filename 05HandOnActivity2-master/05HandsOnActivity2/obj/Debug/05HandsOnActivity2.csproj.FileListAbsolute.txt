@@ -1,0 +1,37 @@
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\bin\Debug\05HandsOnActivity2.exe.config
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\bin\Debug\05HandsOnActivity2.exe
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\bin\Debug\05HandsOnActivity2.pdb
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.csprojAssemblyReference.cache
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.frmOpenTextFile.resources
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.Properties.Resources.resources
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.csproj.GenerateResource.cache
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.csproj.CoreCompileInputs.cache
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.exe
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.pdb
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.frmRegstration.resources
+C:\Users\EDWARD ENEJOSA\source\repos\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.frmStudentRecord.resources
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\bin\Debug\05HandsOnActivity2.exe.config
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\bin\Debug\05HandsOnActivity2.exe
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\bin\Debug\05HandsOnActivity2.pdb
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.csprojAssemblyReference.cache
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.frmOpenTextFile.resources
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.frmRegstration.resources
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.frmStudentRecord.resources
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.Properties.Resources.resources
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.csproj.GenerateResource.cache
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.csproj.CoreCompileInputs.cache
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.exe
+C:\Users\EDWARD ENEJOSA\Desktop\Final Papasa\05HandsOnActivity2\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.pdb
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\bin\Debug\05HandsOnActivity2.exe.config
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\bin\Debug\05HandsOnActivity2.exe
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\bin\Debug\05HandsOnActivity2.pdb
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.csproj.AssemblyReference.cache
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.frmOpenTextFile.resources
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.frmRegstration.resources
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.frmStudentRecord.resources
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\obj\Debug\_05HandsOnActivity2.Properties.Resources.resources
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.csproj.GenerateResource.cache
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.csproj.CoreCompileInputs.cache
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.exe
+C:\Users\Zomer\Desktop\05HandOnActivity2-master\05HandsOnActivity2\obj\Debug\05HandsOnActivity2.pdb
