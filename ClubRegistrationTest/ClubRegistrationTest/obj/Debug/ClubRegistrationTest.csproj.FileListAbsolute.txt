@@ -1,0 +1,12 @@
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\bin\Debug\ClubRegistrationTest.exe.config
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\bin\Debug\ClubRegistrationTest.exe
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\bin\Debug\ClubRegistrationTest.pdb
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\obj\Debug\ClubRegistrationTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\obj\Debug\ClubRegistrationTest.Properties.Resources.resources
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\obj\Debug\ClubRegistrationTest.csproj.GenerateResource.cache
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\obj\Debug\ClubRegistrationTest.csproj.CoreCompileInputs.cache
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\obj\Debug\ClubRegistrationTest.exe
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\obj\Debug\ClubRegistrationTest.pdb
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\obj\Debug\ClubRegistrationTest.FrmClubRegistration.resources
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\obj\Debug\ClubRegistrationTest.csproj.AssemblyReference.cache
+C:\Users\Zomer\source\repos\ClubRegistrationTest\ClubRegistrationTest\obj\Debug\ClubRegistrationTest.FrmUpdateMember.resources
